@@ -1623,7 +1623,7 @@ LB,Jose Flowers,29,2008,73,66,69,66,70,81,2,3
 LB,Isaac Oliver,26,2009,60,41,32,40,17,61,2,3
 LB,Martin Buren,29,2010,59,50,30,35,15,59,2,3
 END_PLAYERS
-Smith Luther Dr. HS Gorillaz,SLG
+Smit HS Monsters,AAM
 QB,Chris Jones,23,2014,76,85,88,87,78,83,2,3
 QB,Leshawn Dillard,25,2012,77,80,69,73,81,76,2,3
 QB,Emitt Lewis,23,2014,68,80,77,64,66,70,2,3
